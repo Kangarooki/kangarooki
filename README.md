@@ -1,5 +1,5 @@
 ### Hi, Nice to meet you! 👋
-I'm sophia happywalkday, who wannabe Data analyist & AI Engineer.
+I'm happywalkday, who wannabe Data analyist & AI Engineer.
 
 <!--
 **sophia.day/sophia.day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
