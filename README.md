@@ -1,4 +1,5 @@
-### Nice to meet you 👋
+### Hi, Nice to meet you 👋
+I'm sophia.day, wannbe Data analyist & AI Engineer
 
 <!--
 **sophia.day/sophia.day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
